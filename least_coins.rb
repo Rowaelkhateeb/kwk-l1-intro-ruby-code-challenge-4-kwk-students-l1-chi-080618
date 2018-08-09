@@ -1,4 +1,4 @@
-def least_coins
+def least_coins(cents)
 coins = {
   :quarters => 25,
   :dimes => 10,
